@@ -8,3 +8,5 @@ spring:
         git:
           uri: https://github.com/hasratparwez9162/config-repo.git
           default-label: main # branch of the repository
+          searchPaths:
+            - '/'
